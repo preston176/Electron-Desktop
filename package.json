@@ -1,0 +1,6 @@
+{
+    "name": "image-resizer-electron",
+    "productName": "ImageResizer",
+    "version": "1.0.0"
+    "description": "App to resize image dimensions",
+}
